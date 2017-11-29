@@ -1,0 +1,4 @@
+bokeh==0.12.10
+Flask==0.12.2
+numpy==1.13.3
+requests
